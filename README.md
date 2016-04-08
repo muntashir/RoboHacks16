@@ -1,6 +1,4 @@
-# Ubeer
-
-Delivers you drinks on demand. Created for RoboHacks 2016.
+A robot that maps its environment. Created for RoboHacks 2016.
 
 #### Running code on the Edison
 
